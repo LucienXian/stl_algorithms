@@ -12,6 +12,11 @@
 * [partial_sum](https://github.com/LucienXian/stl_algorithms/blob/master/numeric/my_partial_sum.cpp)
 
 
+## algobase算法
+
+这是定义与<stl_algobase.h>头文件中的算法
+
+* [equal](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_equal.cpp)
 
 ## reference
 
