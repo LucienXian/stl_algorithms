@@ -17,6 +17,10 @@
 这是定义与<stl_algobase.h>头文件中的算法
 
 * [equal](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_equal.cpp)
+* [fill](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_fill.cpp)
+* [iter_swap](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_iter_swap.cpp)
+* [lexicographical_compare](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_lexicographical_compare.cpp)
+* [mismatch](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_mismatch.cpp)
 
 ## reference
 
