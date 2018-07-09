@@ -21,6 +21,7 @@
 * [iter_swap](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_iter_swap.cpp)
 * [lexicographical_compare](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_lexicographical_compare.cpp)
 * [mismatch](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_mismatch.cpp)
+* [copy](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/copy.md)
 
 ## reference
 
