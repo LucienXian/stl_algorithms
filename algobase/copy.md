@@ -4,11 +4,11 @@
 
 copy算法脉络：
 
-![img](stl_copy_6_2)
+![img](http://ou7boskhm.bkt.clouddn.com/stl_copy_6_2.png)
 
 在这里有一个需要注意的问题，就是由于copy算啊是将输入区间内的元素复制到输出区间中，因此当输入区间与输出区间重叠的时候很有可能出现问题。
 
-![img](stl_copy_6_3)
+![img](http://ou7boskhm.bkt.clouddn.com/stl_copy_6_3.png)
 
 这里出现问题的原因是由于deque的迭代器不是原生指针，如果使用的是vector，迭代器是原生指针，调用copy算法后会以memmove执行实际的复制操作，这样整块内存进行复制就不会出错。
 
