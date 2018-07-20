@@ -23,6 +23,7 @@
 * [mismatch](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_mismatch.cpp)
 * [copy](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/copy.md)
 * [copy_backward](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_copy_backward.cpp)
+* [set](https://github.com/LucienXian/stl_algorithms/blob/master/algobase/my_set.cpp)
 
 ## reference
 
